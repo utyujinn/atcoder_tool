@@ -2,6 +2,7 @@
 
 ## List of commands
 |command|description|
+|-|-|
 |t|test specified code|
 |s|send specified code|
 |m|test manually|

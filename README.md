@@ -1,5 +1,17 @@
 # atcoder_tool
 
+## List of commands
+
+|t|test specified code|
+|-|-|
+|s|send specified code|
+|-|-|
+|m|test manually|
+|-|-|
+|c|check result|
+|-|-|
+|exit|exit program|
+
 ## How to use
 1. make data/credentials.txt
 ```

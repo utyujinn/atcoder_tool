@@ -1,15 +1,11 @@
 # atcoder_tool
 
 ## List of commands
-
+|command|description|
 |t|test specified code|
-|-|-|
 |s|send specified code|
-|-|-|
 |m|test manually|
-|-|-|
 |c|check result|
-|-|-|
 |exit|exit program|
 
 ## How to use
